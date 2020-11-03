@@ -1,3 +1,13 @@
+# ide & etc build stuff
+.idea
+build/
+
+# gradle file
+.gradle
+gradle/
+gradlew
+gradlew.bat
+
 # Compiled class file
 *.class
 
